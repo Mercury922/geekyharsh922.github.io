@@ -1,0 +1,83 @@
+.harsh {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border-radius: 10px;
+}
+body {
+  background-image: url("bg.PNG");
+  background-size: 1400px;
+}
+header>h1 {
+  background-color: wheat;
+  color: orangered;
+  text-align: center;
+  font-weight: 400;
+  font-size: 400%;
+  font-family: Gorditas;
+}
+main>h1{
+  text-align: center;
+  color: wheat;
+  text-decoration: underline;
+  font-weight: 500;
+  font-size: 300%;
+}
+nav {
+  background-color: #00eeff3b;
+  font-family: cursive;
+  text-align: center;
+  font-size: 200%;
+  color: greenyellow;
+  text-decoration: none;
+}
+.navigation{
+  color: greenyellow;
+  text-decoration: none;
+}
+.current{
+  color: yellow;
+  font-weight: 600;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+p {
+  font-family: Dancing Script, Geneva, Tahoma, sans-serif;
+  padding:50px;
+  font-weight: 550;
+  color: rgb(255, 255, 255);
+  font-size: 250%;
+  line-height: 1.5;
+}
+h5 {
+  color: rgb(61, 61, 61);
+  text-align: center;
+}
+ul{
+  font-family: Dancing Script, Geneva, Tahoma, sans-serif;
+  font-weight: 570;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  list-style-type:none;
+  font-size: 250%;
+  line-height: 1.5;
+}
+.icons{
+  text-align: center;
+  padding-bottom: 10px;
+}
+.icons a{
+  color:azure;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-decoration: none;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.icons a:hover{
+  color: rgb(133, 134, 136);
+  transition: all 0.5s ease-out;
+}
