@@ -3,24 +3,26 @@
   margin-left: auto;
   margin-right: auto;
   width: 15%;
-  border-radius: 10px;
+  border-radius: 30px;
+  border: 5px solid black;
 }
 body {
   background-image: url("bg.PNG");
   background-size: 1400px;
 }
 header>h1 {
-  background-color: wheat;
-  color: orangered;
+  background-color: rgb(255, 255, 255);
+  text-decoration: underline;
+  color: rgb(0, 36, 56);
   text-align: center;
-  font-weight: 400;
+  font-family:fantasy;
+  font-weight: 500;
   font-size: 400%;
-  font-family: Gorditas;
 }
 main>h1{
   text-align: center;
-  color: wheat;
   text-decoration: underline;
+  color:wheat;
   font-weight: 500;
   font-size: 300%;
 }
